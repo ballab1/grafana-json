@@ -1,0 +1,4 @@
+[submodule "deploy_grafana_standalone"]
+	path = deploy_grafana_standalone
+	url = ../deploy_grafana_standalone
+	branch = integration

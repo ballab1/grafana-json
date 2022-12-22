@@ -1,0 +1,30 @@
+# Created by .gitignore support plugin (hsz.mobi)
+.env
+.idea
+.gradle
+*.iml
+*.tgz
+*.zip
+**/*.bak
+*.log
+*.txt
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+~*
+*~
+.directory
+.Trash-*
+gradlew*
+samples
+test
+log
+logs
+*.loaded
+build
+grafonnet
+2021*
